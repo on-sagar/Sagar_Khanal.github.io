@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SAMPLE Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Research Assistant</a>. Department of Civil Engineering, Pulchowk Campus, IOE, TU, Nepal
 
 profile:
   align: right
@@ -18,13 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-SAMPLE
-My name is Sagar Khanal. I am a recent graduate of Civil Engineering from Pulchowk Campus.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey you! I am a B.E. Civil Engineering graduate from IOE Pulchowk Campus and I am currently working as a research assistant at the Department of Civil Engineering under the supervision of [Assoc. Prof Dr. Kshitij C. Shrestha](https://scholar.google.co.jp/citations?user=jLMJr90AAAAJ&hl=en). My current research here involves reliability studies and reviewing Steel construction specifications and code of practices to develop a new steel code for Nepal.
 
-SAMPLE
+Broadly speaking, I am interested in research in the intersection of natural hazards and the built environment spanning across earthquake engineering, data science and disaster risk reduction.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-SAMPLE
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I am not studying, I like to binging movies, playing football and reading newspapers. Please feel free to hop around and know more about me!
