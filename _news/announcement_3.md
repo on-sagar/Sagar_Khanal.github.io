@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+SAGARA simple inline announcement sample with Markdown emoji! :sparkles: :smile:
