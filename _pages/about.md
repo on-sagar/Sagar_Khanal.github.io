@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Research Assistant</a>. Department of Civil Engineering, Pulchowk Campus, IOE, TU, Nepal
 
@@ -8,10 +8,9 @@ profile:
   align: right
   image: sagar_photo.jpeg
   image_circular: false # crops the image to make it circular
-  #more_info: >
-  #  <p>555 your office number</p>
-  #  <p>123 your address street</p>
-  #  <p>Your City, State 12345</p>
+  more_info: >
+   <p><a href="longcv.com">Long CV</a></p>
+   <p><a href="shortcv.com">    Short CV</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
