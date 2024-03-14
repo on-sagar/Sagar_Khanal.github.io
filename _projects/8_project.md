@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gaussian Progress Regression for Peak Prediction
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Shake Table
+description: Database management system project
+img:
+importance: 4
 category: work
 ---
 
