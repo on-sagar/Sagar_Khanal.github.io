@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Equivalent Frame Modeling of Pavia Door wall
 description: a project with a background image
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

@@ -2,12 +2,24 @@
 layout: page
 permalink: /consulting/
 title: Consulting
-description: Page for displaying consulting service of Er. Sagar Khanal.
+description: 
 nav: true
 nav_order: 6
 published: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Sagar is a licensed Civil Engineer class "A" under the Nepal Engineering Council (NEC). Click [here](https://nec.gov.np/applicant/detailview/36215) to view certification.
 
-Organize your courses by years, topics, or universities, however you like!
+Sagar provides consulting services for the following kinds of work:
+
+a. Structural Anlaysis and Design of mid-rise residential buildings (both steel and RCC)
+
+b. Quantity Estimation of structures
+
+c. Design of Cast-in-Anchor Bolts
+
+d. R & D Works
+
+e. Construction Site Supervision and Engineering Suggestions
+
+

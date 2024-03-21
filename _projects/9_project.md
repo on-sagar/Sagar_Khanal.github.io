@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hazard Visualization Project
-description: D3js, Javascript, Interactive Dynamic Data Visualization
-img: assets/img/Project_photos/Earthquake_Data_Visualization.png
-importance: 4
-category: fun
+title: Non-Destructive Evaluation of Structure
+description: Rebound Hammer, Ultrasonic Pulse wave Velocity, Rebar Locator and Ground Penetrating Radar
+img: assets/img/Project_photos/GPR_scan_for_NDE_project.png
+importance: 3
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

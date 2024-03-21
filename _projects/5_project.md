@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gaussian Progress Regression for Peak Prediction
-description: a project with a background image
-img: assets/img/1.jpg
+title: Site specific peak-response prediction using P-wave data
+description: Gaussian Process Regression
+img: assets/img/Project_photos/GP.png
 importance: 3
 category: work
 ---

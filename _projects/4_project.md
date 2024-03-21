@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Social Science aspect of Earthquake Early Warning
-description: another without an image
-img:
+description: Hypothesis Testing, Power Analysis, Behavioral Science Research 
+img: assets/img/Project_photos/EEWS_preferences_poster_ss.png
 importance: 3
 category: work
 ---

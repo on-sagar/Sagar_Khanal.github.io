@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shake Table
-description: a project with no image
-img:
+title: Shake Table Fabrication
+description: Fabrication, Organization and Competition  
+img: assets/img/Project_photos/Shake_Table.jpg
 importance: 4
 category: work
 ---

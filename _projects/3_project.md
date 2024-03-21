@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hill Buildings
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Seismic Vulnerability of Hill Buildings
+description: Non-linear Dynamic Analysis in OpenSees
+img: assets/img/Project_photos/hill_model.png        
 redirect: https://unsplash.com
-importance: 3
+importance: 5
 category: work
 ---
 

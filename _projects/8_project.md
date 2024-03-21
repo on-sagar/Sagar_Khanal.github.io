@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shake Table
-description: Database management system project
-img:
+title: Database Management System
+description: C Programming, Software engineering
+img: assets/img/Project_photos/Hostel_management_system.JPG
 importance: 4
 category: work
 ---

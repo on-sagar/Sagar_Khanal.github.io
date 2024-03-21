@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /CV/
 title: CV
+description: Curriculum Vitae of Sagar Khanal.
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 6
+published: true
 ---
+
+Please click here to view the [Long CV](https://scholar.google.co.jp/citations?user=jLMJr90AAAAJ&hl=en) of Sagar Khanal. Click here for the [short CV](https://facebook.com).
