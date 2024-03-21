@@ -12,14 +12,10 @@ Sagar is a licensed Civil Engineer class "A" under the Nepal Engineering Council
 
 Sagar provides consulting services for the following kinds of work:
 
-a. Structural Anlaysis and Design of mid-rise residential buildings (both steel and RCC)
-
-b. Quantity Estimation of structures
-
-c. Design of Cast-in-Anchor Bolts
-
-d. R & D Works
-
-e. Construction Site Supervision and Engineering Suggestions
+-  Structural Anlaysis and Design of mid-rise residential buildings (both steel and RCC)
+-  Quantity Estimation of structures
+-  Design of Cast-in-Anchor Bolts
+-  R & D Works
+-  Construction Site Supervision and Engineering Suggestions
 
 
