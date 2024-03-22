@@ -5,7 +5,19 @@ description: Fabrication, Organization and Competition
 img: assets/img/Project_photos/Shake_Table.jpg
 importance: 4
 category: work
+toc:
+  sidebar: left
+published: true
 ---
+
+### MOTIVATION
+
+### THE START
+
+### LEARNING PROCESS
+
+### SHAKE TABLE COMPETITION AT CESS-2022
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
