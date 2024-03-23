@@ -13,7 +13,14 @@ thumbnail:
 published: true
 ---
 
+### SUMMARY
+I led my teammates to the first International Shake Table Competition in Asian Institute of Technology organized by Computers and Structures Inc. from a Nepali Team,where we competed against 9 teams to secure the runner up position.
+
+
+
 ### THE COMPETITION
+
+
 
 ### OUR MODEL
 
