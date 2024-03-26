@@ -98,12 +98,12 @@ Swipe down to see the photos.
 <!-- Change the video into a gif if it doesnt load -->
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/Nischal_model_flexible_during_compi.mp4" class="img-fluid rounded z-depth-1" %}
+        <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Shake_Table/Nischal_model_flexible_during_compi.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Clip from one of the stages of the Shake Table competition
+    Shake Table Competition clip
 </div>
 
 ### INTERNATIONAL PARTICIPATION
